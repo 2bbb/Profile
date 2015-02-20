@@ -5,7 +5,7 @@ Profile of ISHII 2bit
 ## About
 ### Biography
 
-* 1984/09/08, born at Fukuoka Japan.
+* 1984/09/08, was born in Fukuoka, Japan, into the family of my father and my mother.
 * 2003/04, enter Faculty of Science, Yamaguchi University.
 * 2004-2010, study under ITO Takayuki [@ YCAM].
 * 2007-2010, study under KIKUMASA Isao [@ Yamaguchi University].
@@ -15,11 +15,14 @@ Profile of ISHII 2bit
 ### Field
 
 * Objective-C
+	* iOS
 * C++
+	* openframeworks
 * node.js
+	* using like a Max
+* Max
 * php
 * Python
-* Max
 * and other interesting language, except for natural language.
 
 ### Interesting
@@ -58,11 +61,13 @@ Profile of ISHII 2bit
 
 * Concept, Programming
 
+### [Perfume Music Player](http://perfume-app.com)
+
+* iOS Programming, Technical Direction
+
 ### [Anti Tagging](http://bit.ly/AntiTagging)
 
 * Concept, Programming
-
-[App Store](http://bit.ly/AntiTagging)
 
 ### [Ramza "Gala Eluard", MV](https://vimeo.com/92619952)
 
