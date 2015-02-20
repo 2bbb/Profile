@@ -88,6 +88,7 @@ Profile of ISHII 2bit
 
 * [Github](https://github.com/2bbb)
 * [Twitter](https://twitter.com/ishii_2bit)
+* [instagram](https://instagram.com/2bbb/)
 * [Vimeo](https://vimeo.com/2bit)
 * [Slideshare](http://www.slideshare.net/TsuubitoIshii)
 * [Qiita](http://qiita.com/2bbb)
@@ -95,5 +96,20 @@ Profile of ISHII 2bit
 ### [Mail](mailto:from.github@2bit.jp)
 
 ## Other
+
+### Media
+
+#### Pub
+
+* Web Designing 2014/04
+* Sound & Recording 2015/02
+* Ginza 2015/02
+* SWITCH 2015/02
+
+#### Web
+
+* [DMM.make](https://media.dmm-make.com/item/1417/)
+
+### Photo
 
 ![Photo](https://github.com/2bbb/Profile/raw/master/prof_s.png)
