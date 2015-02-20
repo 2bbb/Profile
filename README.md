@@ -2,7 +2,8 @@
 
 Profile of ISHII 2bit
 
-## Biography
+## About
+### Biography
 
 * 1984/09/08, born at Fukuoka Japan.
 * 2003/04, enter Faculty of Science, Yamaguchi University.
@@ -10,6 +11,38 @@ Profile of ISHII 2bit
 * 2007-2010, study under KIKUMASA Isao [@ Yamaguchi University].
 * 2010/03, graduated from the Graduate School of Science and Engineering, Yamaguchi University. Master of Science.
 * 2010/04, found the company *buffer Renaiss*, with SUZUKI Takashi and KOMATSU Kei.
+
+### Field
+
+* Objective-C
+* C++
+* node.js
+* php
+* Python
+* Max
+* and other interesting language, except for natural language.
+
+### Interesting
+
+* Mathematics
+	* Foundations of mathematics
+		* Mathematical logic
+			* Proof theory
+				* [ofx1plus1is2](http://github.com/2bbb/ofx1plus1is2)
+				* [Proof](http://github.com/2bbb/Proof)
+	* Abstract Algebra
+* Meta Programming
+	* Template meta programming in C++
+		* [Proof](http://github.com/2bbb/Proof)
+	* Esoteric programming language
+		* brainfuck
+			* [ofxBrainfuck](https://github.com/2bbb/ofxBrainfuck)
+			* [brainfuck with Swift](https://github.com/2bbb/Brainfuck)
+* Music
+* Glitch
+	* Structure of digital data
+	* Destroy
+		* [ofxJpegGlitch](http://github.com/2bbb/ofxJpegGlitch)
 
 ## Works
 
