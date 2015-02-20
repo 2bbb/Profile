@@ -1,7 +1,5 @@
 # ISHII 2bit
 
-![Photo](https://github.com/2bbb/Profile/raw/master/prof.png)
-
 Profile of ISHII 2bit
 
 ## Biography
@@ -56,3 +54,7 @@ Profile of ISHII 2bit
 ### Mail
 
 * from.github@2bit.jp
+
+## Other
+
+![Photo](https://github.com/2bbb/Profile/raw/master/prof.png)
