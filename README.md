@@ -13,33 +13,27 @@ Profile of ISHII 2bit
 
 ## Works
 
-### やくしまるえつこ "ヴィーナスとジーザス", MV
+### [やくしまるえつこ "ヴィーナスとジーザス", MV](http://www.youtube.com/watch?v=CKqLuG98bGE)
 
 * System Programming
 
-[youtube](http://www.youtube.com/watch?v=CKqLuG98bGE)
-
-### Perfume Global Site Project
+### [Perfume Global Site Project](http://www.perfume-global.com)
 
 * System Programming
 
-[Perfume Global Site](http://www.perfume-global.com)
-
-### 想ひ出ブレイカー
+### [想ひ出ブレイカー](http://bit.ly/OmohideBreaker)
 
 * Concept, Programming
 
-[App Store](http://bit.ly/OmohideBreaker)
-
-### Anti Tagging
+### [Anti Tagging](http://bit.ly/AntiTagging)
 
 * Concept, Programming
 
 [App Store](http://bit.ly/AntiTagging)
 
-### Ramza "Gala Eluard", MV
+### [Ramza "Gala Eluard", MV](https://vimeo.com/92619952)
 
-[vimeo](https://vimeo.com/92619952)
+* Direction, Programming
 
 ## Contact
 
@@ -51,9 +45,7 @@ Profile of ISHII 2bit
 * [434bit](http://434bit.asia/) with SHIMIZU Motoi
 * [fumajime](http://fumajime.net/) with NAGAI Sou
 
-### Mail
-
-* from.github@2bit.jp
+### [Mail](mailto:from.github@2bit.jp)
 
 ## Other
 
