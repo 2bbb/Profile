@@ -49,4 +49,4 @@ Profile of ISHII 2bit
 
 ## Other
 
-![Photo](https://github.com/2bbb/Profile/raw/master/prof.png)
+![Photo](https://github.com/2bbb/Profile/raw/master/prof_s.png)
