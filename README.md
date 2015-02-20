@@ -7,12 +7,35 @@ Profile of ISHII 2bit
 
 * 1984/09/08, was born in Fukuoka, Japan, into the family of my father and my mother.
 * 2003/04, enter Faculty of Science, Yamaguchi University.
-* 2004-2010, study under ITO Takayuki [@ YCAM].
-* 2007-2010, study under KIKUMASA Isao [@ Yamaguchi University].
+* 2004-2010, study under ITO Takayuki [@ *YCAM*].
+* 2007-2010, study under KIKUMASA Isao [@ *Yamaguchi University*].
 * 2010/03, graduated from the Graduate School of Science and Engineering, Yamaguchi University. Master of Science.
 * 2010/04, found the company *buffer Renaiss*, with SUZUKI Takashi and KOMATSU Kei.
 
 ### Field
+
+#### Genre
+
+* Art
+	* Installation
+	* Theater
+	* Dance
+* Entertainment
+	* Live stage effects
+		* Lighting
+		* Video
+	* Club party
+		* Lighting
+		* VJ
+* Commercial
+	* Interactive contents
+	* Interactive campaign
+	* Web campaign
+* Development
+	* Useless tools
+	* Nonsense tools
+
+#### Language
 
 * Objective-C
 	* iOS
@@ -21,11 +44,11 @@ Profile of ISHII 2bit
 * node.js
 	* using like a Max
 * Max
-* php
 * Python
+* php
 * and other interesting language, except for natural language.
 
-### Interesting
+#### Interesting
 
 * Mathematics
 	* Foundations of mathematics
@@ -41,11 +64,31 @@ Profile of ISHII 2bit
 		* brainfuck
 			* [ofxBrainfuck](https://github.com/2bbb/ofxBrainfuck)
 			* [brainfuck with Swift](https://github.com/2bbb/Brainfuck)
+		* Whitespace
+		* Grass
+		* Lazy K
+		* Coq
 * Music
-* Glitch
-	* Structure of digital data
-	* Destroy
-		* [ofxJpegGlitch](http://github.com/2bbb/ofxJpegGlitch)
+* Texture
+	* Glitch
+		* Structure of digital data
+		* Destroy
+			* [想ひ出ブレイカー](http://bit.ly/OmohideBreaker)
+			* [Anti Tagging](http://bit.ly/AntiTagging)
+			* [ofxJpegGlitch](http://github.com/2bbb/ofxJpegGlitch)
+			* [Ramza "Gala Eluard", MV](https://vimeo.com/92619952)
+	* Highspeed movie
+		* [Ramza "Gala Eluard", MV](https://vimeo.com/92619952)
+		* [Young Juvenile Youth "Anti Everything", Unofficial MV](https://vimeo.com/119520685)
+	* Security camera
+	* Analog wireless video
+	* Analog lighting
+	* Skin
+		* Crustacean
+		* Land snail
+* Animal
+	* Dogs
+		* Pomeranian
 
 ## Works
 
@@ -70,6 +113,10 @@ Profile of ISHII 2bit
 * Concept, Programming
 
 ### [Ramza "Gala Eluard", MV](https://vimeo.com/92619952)
+
+* Direction, Programming
+
+### [Young Juvenile Youth "Anti Everything", Unofficial MV](https://vimeo.com/119520685)
 
 * Direction, Programming
 
