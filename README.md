@@ -44,6 +44,15 @@ Profile of ISHII 2bit
 * [2bi.tokyo](http://2bi.tokyo/)
 * [434bit](http://434bit.asia/) with SHIMIZU Motoi
 * [fumajime](http://fumajime.net/) with NAGAI Sou
+* [ISHII 2bit + NISHIMOTO Momoko](http://nishimotomomoko.2bit.jp/)
+
+### Social
+
+* [Github](https://github.com/2bbb)
+* [Twitter](https://twitter.com/ishii_2bit)
+* [Vimeo](https://vimeo.com/2bit)
+* [Slideshare](http://www.slideshare.net/TsuubitoIshii)
+* [Qiita](http://qiita.com/2bbb)
 
 ### [Mail](mailto:from.github@2bit.jp)
 
