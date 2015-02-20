@@ -1,6 +1,6 @@
 # ISHII 2bit
 
-![Photo](https://github.com/2bbb/Profile/raw/master/path/to/prof.png)
+![Photo](https://github.com/2bbb/Profile/raw/master/prof.png)
 
 Profile of ISHII 2bit
 
