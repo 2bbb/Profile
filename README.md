@@ -57,9 +57,11 @@ Profile of ISHII 2bit
 				* [ofx1plus1is2](http://github.com/2bbb/ofx1plus1is2)
 				* [Proof](http://github.com/2bbb/Proof)
 	* Abstract Algebra
-* Meta Programming
-	* Template meta programming in C++
-		* [Proof](http://github.com/2bbb/Proof)
+		* Category theory
+* Programming
+	* Meta Programming
+		* Template meta programming in C++
+			* [Proof](http://github.com/2bbb/Proof)
 	* Esoteric programming language
 		* brainfuck
 			* [ofxBrainfuck](https://github.com/2bbb/ofxBrainfuck)
@@ -68,24 +70,46 @@ Profile of ISHII 2bit
 		* Grass
 		* Lazy K
 		* Coq
-* Music
-* Texture
-	* Glitch
-		* Structure of digital data
-		* Destroy
-			* [想ひ出ブレイカー](http://bit.ly/OmohideBreaker)
-			* [Anti Tagging](http://bit.ly/AntiTagging)
-			* [ofxJpegGlitch](http://github.com/2bbb/ofxJpegGlitch)
+* Visual
+	* Texture
+		* Glitch
+			* Structure of digital data
+			* Destroy
+				* [想ひ出ブレイカー](http://bit.ly/OmohideBreaker)
+				* [Anti Tagging](http://bit.ly/AntiTagging)
+				* [ofxJpegGlitch](http://github.com/2bbb/ofxJpegGlitch)
+				* [Ramza "Gala Eluard", MV](https://vimeo.com/92619952)
+		* Highspeed movie
 			* [Ramza "Gala Eluard", MV](https://vimeo.com/92619952)
-	* Highspeed movie
-		* [Ramza "Gala Eluard", MV](https://vimeo.com/92619952)
-		* [Young Juvenile Youth "Anti Everything", Unofficial MV](https://vimeo.com/119520685)
-	* Security camera
-	* Analog wireless video
-	* Analog lighting
-	* Skin
-		* Crustacean
-		* Land snail
+			* [Young Juvenile Youth "Anti Everything", Unofficial MV](https://vimeo.com/119520685)
+		* Security camera
+		* Analog wireless video
+		* Analog lighting
+		* Skin
+			* Crustacean
+			* Land snail
+* Music
+	* Electronic
+		* Autechre
+		* Richard Devine
+		* SND / Mark Fell
+		* Vladislav Delay
+		* Cristian Vogel
+	* Contemporary
+		* Pierre Henry
+			* "Fantaisie Messe Pour le Temps Present"
+			* "Messe de Liverpool"
+		* Philip Glass
+			*
+		* Alvin Lucier
+			* "I Am Sitting In A Room"
+		* Steve Reich
+			* "Clapping Music"
+			* "It's Gonna Rain"
+			* "New York Counterpoint"
+			* "The Desert Music"
+		* Meredith Monk
+			* "Turtle Dreams"
 * Animal
 	* Dogs
 		* Pomeranian
@@ -130,6 +154,7 @@ Profile of ISHII 2bit
 * [434bit](http://434bit.asia/) with SHIMIZU Motoi
 * [fumajime](http://fumajime.net/) with NAGAI Sou
 * [ISHII 2bit + NISHIMOTO Momoko](http://nishimotomomoko.2bit.jp/)
+* [backspacetokyo ⌫](http://backspace.tokyo/) with HIGA Satoru, SHIMIZU Motoi
 
 ### Social
 
