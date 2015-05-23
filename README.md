@@ -44,6 +44,7 @@ Profile of ISHII 2bit
 	* openframeworks
 * node.js
 	* using like a Max
+	* node-red
 * Max
 * Python
 * php
