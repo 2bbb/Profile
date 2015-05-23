@@ -11,6 +11,7 @@ Profile of ISHII 2bit
 * 2007-2010, study under KIKUMASA Isao [@ *Yamaguchi University*].
 * 2010/03, graduated from the Graduate School of Science and Engineering, Yamaguchi University. Master of Science.
 * 2010/04, found the company *buffer Renaiss*, with SUZUKI Takashi and KOMATSU Kei.
+* 2015/03, started *backspacetokyo*, with HIGA Satoru and SHIMIZU Motoi.
 
 ### Field
 
@@ -70,6 +71,9 @@ Profile of ISHII 2bit
 		* Grass
 		* Lazy K
 		* Coq
+	* Tools
+		* [ofxSerializer](http://github.com/2bbb/ofxSerializer)
+		* [ofxPubSubOsc](http://github.com/2bbb/ofxPubSubOsc)
 * Visual
 	* Texture
 		* Glitch
@@ -100,7 +104,10 @@ Profile of ISHII 2bit
 			* "Fantaisie Messe Pour le Temps Present"
 			* "Messe de Liverpool"
 		* Philip Glass
-			*
+			* "Music in Fifths"
+			* "Music in Twelve Parts"
+			* "Einstein on the Beach"
+			* "String Quartet No.2 / Company"
 		* Alvin Lucier
 			* "I Am Sitting In A Room"
 		* Steve Reich
