@@ -9,7 +9,7 @@ Profile of ISHII 2bit
 * 2003/04, enter Faculty of Science, Yamaguchi University.
 * 2004-2010, study under ITO Takayuki [@ *YCAM*].
 * 2007-2010, study under KIKUMASA Isao [@ *Yamaguchi University*].
-* 2010/03, graduated from the Graduate School of Science and Engineering, Yamaguchi University. Master of Science.
+* 2010/03, graduated from the Graduate School of Science and Engineering, Yamaguchi University. Master of Science [Mathematics].
 * 2010/04, found the company *buffer Renaiss*, with SUZUKI Takashi and KOMATSU Kei.
 * 2015/03, started *backspacetokyo*, with HIGA Satoru and SHIMIZU Motoi.
 
