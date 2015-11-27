@@ -57,13 +57,13 @@ Profile of ISHII 2bit
 		* Mathematical logic
 			* Proof theory
 				* [ofx1plus1is2](http://github.com/2bbb/ofx1plus1is2)
-				* [Proof](http://github.com/2bbb/Proof)
+				* [TemplateMetaProofing](http://github.com/2bbb/TemplateMetaProofing)
 	* Abstract Algebra
 		* Category theory
 * Programming
 	* Meta Programming
 		* Template meta programming in C++
-			* [Proof](http://github.com/2bbb/Proof)
+			* [TemplateMetaProofing](https://github.com/2bbb/TemplateMetaProofing)
 	* Esoteric programming language
 		* brainfuck
 			* [ofxBrainfuck](https://github.com/2bbb/ofxBrainfuck)
