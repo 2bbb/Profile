@@ -12,6 +12,9 @@ Profile of ISHII 2bit
 * 2010/03, graduated from the Graduate School of Science and Engineering, Yamaguchi University. Master of Science [Mathematics].
 * 2010/04, found the company *buffer Renaiss*, with SUZUKI Takashi and KOMATSU Kei.
 * 2015/03, started *backspacetokyo*, with HIGA Satoru and SHIMIZU Motoi.
+* 2016/12, started *歯茎を噛むと林檎から血が出る*, with ASAI Yuta.
+* 2017/03, left from *backspacetokyo*.
+* 2018/05, left from *buffer Renaiss*.
 
 ### Field
 
@@ -186,12 +189,9 @@ Profile of ISHII 2bit
 ### Web
 
 * [2bit.jp](http://2bit.jp/)
-* [buffer-renaiss](http://buffer-renaiss.com/)
 * [2bi.tokyo](http://2bi.tokyo/)
-* [434bit](http://434bit.asia/) with SHIMIZU Motoi
 * [fumajime](http://fumajime.net/) with NAGAI Sou
-* [ISHII 2bit + NISHIMOTO Momoko](http://nishimotomomoko.2bit.jp/)
-* [backspacetokyo ⌫](http://backspace.tokyo/) with HIGA Satoru, SHIMIZU Motoi
+* [歯茎を噛むと林檎から血が出る (HagukiWoKamuToRingoKaraTiGaDeru)](http://歯茎を噛むと林檎から血が出る.jp/) with ASAI Yuta
 
 ### Social
 
